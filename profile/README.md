@@ -1,6 +1,6 @@
 # Nyria
 
-Nyria turns the trade alerts you already send into orders in your own brokerage account. Post in Discord or Telegram, fire a TradingView or TrendSpider alert, call a webhook, or send one from Claude or Cursor over MCP, and a bot places the order at Charles Schwab, Tradier, tastytrade or Alpaca. Paper trading on Nyria Paper is free, with no card. Live trading is from $15 a month, priced by your total entry allocation.
+Nyria turns the trade alerts you already send into orders in your own brokerage account. Post in Discord or Telegram, fire a TradingView or TrendSpider alert, call a webhook, or send one from Claude or Cursor over MCP, and a bot places the order. Paper trading on Nyria Paper is free, with no card. Live trading is from $15 a month, priced by your total entry allocation.
 
 Creators can also sell access to a strategy: members pay, and each alert trades in every member's own account.
 
