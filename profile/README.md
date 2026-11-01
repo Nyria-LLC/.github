@@ -4,10 +4,11 @@ Nyria turns the trade alerts you already send into orders in your own brokerage 
 
 Creators can also sell access to a strategy: members pay, and each alert trades in every member's own account.
 
-- Website: [nyria.io](https://nyria.io)
-- Docs: [docs.nyria.io](https://docs.nyria.io)
-- AI agents: [nyria-mcp](https://github.com/Nyria-LLC/nyria-mcp) sends alerts from Claude, Cursor or any MCP client to Nyria Paper or your broker
-- Alert examples, Pine Script builder and a webhook sender: [trading-alert-automation](https://github.com/Nyria-LLC/trading-alert-automation)
-- Copy-paste alerts checked against the live parser, with senders in curl, Python and Node: [trading-alert-examples](https://github.com/Nyria-LLC/trading-alert-examples)
+- Docs: [docs.nyria.io](https://docs.nyria.io) and [nyria.io](https://nyria.io)
+- Connect Claude or Cursor: [nyria-mcp](https://github.com/Nyria-LLC/nyria-mcp) sends alerts from any MCP client to Nyria Paper or your broker. Page: [Nyria MCP](https://nyria.io/signals/mcp)
+- Build a bot with an AI assistant: [ai-trading-bot-starter](https://github.com/Nyria-LLC/ai-trading-bot-starter) has CLAUDE.md, AGENTS.md, Cursor rules and prompts for a Pine Script v6 strategy tested on paper
+- Copy-paste alerts checked against the live alert tester: [trading-alert-examples](https://github.com/Nyria-LLC/trading-alert-examples)
+- How an alert becomes an order, with a Pine Script builder: [trading-alert-automation](https://github.com/Nyria-LLC/trading-alert-automation)
+- Send alerts from Python or the command line: [nyria-alerts](https://github.com/Nyria-LLC/nyria-alerts)
 - Compare: [Nyria vs TradersPost](https://nyria.io/compare/traderspost), [vs SignalStack](https://nyria.io/compare/signalstack), [vs PineConnector](https://nyria.io/compare/pineconnector)
 - Community: [Discord](https://discord.com/invite/nyria) · X [@NyriaAutomation](https://x.com/NyriaAutomation)
